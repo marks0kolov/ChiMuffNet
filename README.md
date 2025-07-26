@@ -9,8 +9,8 @@ This is an AI that can distinguish chihuahuas from muffins, and if you think it'
 Clone the repository:
 
 ```bash
-git clone https://github.com/marks0kolov/chihuahua_vs_muffin.git
-cd chihuahua_vs_muffin
+git clone https://github.com/marks0kolov/ChiMuffNet.git
+cd ChiMuffNet
 ```
 
 Run inference on a new image with the provided python script:
