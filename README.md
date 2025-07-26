@@ -1,6 +1,6 @@
 # **Muffin vs Chihuahua Detector**
 
-This is an AI that can distinguish chihuahuas from muffins and if you think it's easy just take a look at the image below
+This is an AI that can distinguish chihuahuas from muffins, and if you think it's easy just take a look at the image below
 
 <img src="https://i.kym-cdn.com/photos/images/original/001/090/578/37e.jpg" alt="meme: chihuahua faces being extremely similar to blueberry muffins on images" width="50%">
 
